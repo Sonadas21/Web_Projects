@@ -1,0 +1,181 @@
+.element {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .element .element-rd {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 430px;
+    height: 932px;
+  }
+  
+  .element .overlap-group {
+    position: relative;
+    width: 928px;
+    height: 1089px;
+    top: -157px;
+    left: -296px;
+  }
+  
+  .element .rectangle {
+    position: absolute;
+    width: 430px;
+    height: 932px;
+    top: 157px;
+    left: 296px;
+    background-color: #006bff;
+  }
+  
+  .element .ellipse {
+    position: absolute;
+    width: 326px;
+    height: 419px;
+    top: 54px;
+    left: 517px;
+    background-color: #0059d4;
+    border-radius: 163px/209.5px;
+    transform: rotate(-31.65deg);
+  }
+  
+  .element .div {
+    position: absolute;
+    width: 420px;
+    height: 419px;
+    top: 261px;
+    left: 25px;
+    background-color: #0059d4;
+    border-radius: 210.19px/209.5px;
+    transform: rotate(7.29deg);
+  }
+  
+  .element .vector {
+    position: absolute;
+    width: 430px;
+    height: 384px;
+    top: 705px;
+    left: 296px;
+  }
+  
+  .element .ellipse-2 {
+    position: absolute;
+    width: 71px;
+    height: 52px;
+    top: 143px;
+    left: 647px;
+    background-color: #006bff;
+    border-radius: 35.33px/26.23px;
+    transform: rotate(-31.65deg);
+  }
+  
+  .element .ellipse-3 {
+    position: absolute;
+    width: 71px;
+    height: 52px;
+    top: 542px;
+    left: 280px;
+    background-color: #006bff;
+    border-radius: 35.33px/26.23px;
+    transform: rotate(60.12deg);
+  }
+  
+  .element .text-wrapper {
+    position: absolute;
+    width: 326px;
+    top: 364px;
+    left: 348px;
+    font-family: "Preahvihear-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .img {
+    position: absolute;
+    width: 13px;
+    height: 20px;
+    top: 196px;
+    left: 316px;
+  }
+  
+  .element .line {
+    top: 875px;
+    position: absolute;
+    width: 300px;
+    height: 2px;
+    left: 355px;
+  }
+  
+  .element .line-2 {
+    top: 956px;
+    position: absolute;
+    width: 300px;
+    height: 2px;
+    left: 355px;
+  }
+  
+  .element .text-wrapper-2 {
+    position: absolute;
+    width: 182px;
+    top: 852px;
+    left: 377px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #00000066;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .text-wrapper-3 {
+    position: absolute;
+    width: 182px;
+    top: 934px;
+    left: 377px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #00000066;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .vector-2 {
+    position: absolute;
+    width: 14px;
+    height: 11px;
+    top: 858px;
+    left: 356px;
+  }
+  
+  .element .on-hover {
+    position: absolute;
+    width: 291px;
+    height: 64px;
+    top: 1003px;
+    left: 355px;
+    background-color: #006bff;
+    border-radius: 32px;
+    border: 1px solid;
+    border-color: #ffffff;
+  }
+  
+  .element .login {
+    position: absolute;
+    top: 6px;
+    left: 98px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
